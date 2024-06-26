@@ -9,10 +9,10 @@ obj = {
   "taobaourl" : "http://www.baidu.com",
   "tuiCode" : "666",
   "weixin" : "有问题加微信:xf180797",
-  "code" : "38b1b80a-f505-49e7-84a3-a0d81f1f5f1e",
+  "code" : "1284b162-41ee2abd",
   "homeurl" : "http://x.0797game.com/?id=6",
   "downurl" : "http://x.0797game.com/new330.apk",
-  "nowTime" : 1717465025,
+  "nowTime" : 1719381079876,
   "dian" : 10000,
     "huasedata" : [
     "bbabf819532a45f7e25052be055472b0bcd7781",
