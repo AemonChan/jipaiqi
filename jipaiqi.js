@@ -10,7 +10,7 @@ obj = {
   "message" : "tokenÈÏÖ¤³É¹¦",
   "appIsAvai" : 1,
   "endTimeStr" : null,
-  "iosEndTimeStr" : "2024-09-29 10:30:33.0",
+  "iosEndTimeStr" : "2025-09-29 10:30:33.0",
   "androidEndTimeStr" : null,
   "token" : null
 }
