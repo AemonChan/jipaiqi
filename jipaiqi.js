@@ -7,10 +7,10 @@ obj = {
   "kefuWx" : "wn5205208",
   "level" : "4",
   "statu" : 1,
-  "message" : "token认证成功",
+  "message" : "token脠脧脰陇鲁脡鹿娄",
   "appIsAvai" : 1,
   "endTimeStr" : null,
-  "iosEndTimeStr" : "2024-06-29 10:30:33.0",
+  "iosEndTimeStr" : "2024-09-29 10:30:33.0",
   "androidEndTimeStr" : null,
   "token" : null
 }
