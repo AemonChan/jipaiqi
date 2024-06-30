@@ -3,9 +3,9 @@ var obj = JSON.parse(body);
 
 obj = {
   "priceStr" : "18;88;263",
-  "maxver" : "230",
+  "maxver" : "220",
   "notice" : "感谢您使用万能记牌器，有任何问题请咨询微信客服。仅供娱乐，禁止赌博。",
-  "minver" : "254",
+  "minver" : "264",
   "taobaourl" : "http://www.baidu.com",
   "tuiCode" : "666",
   "weixin" : "有问题加微信:xf180797",
@@ -13,7 +13,7 @@ obj = {
   "homeurl" : "http://x.0797game.com/?id=6",
   "downurl" : "http://x.0797game.com/new330.apk",
   "nowTime" : 1717465025,
-  "dian" : 10000,
+  "dian" : 100000,
     "huasedata" : [
     "bbabf819532a45f7e25052be055472b0bcd7781",
     "bbbb5f0364da3ef0522b5d0ef653c3cb9325989",
