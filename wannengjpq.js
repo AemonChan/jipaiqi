@@ -9,7 +9,7 @@ obj = {
   "taobaourl" : "http://www.baidu.com",
   "tuiCode" : "666",
   "weixin" : "有问题加微信:xf180797",
-  "code" : "75c5c1bf-d5d8c1c6",
+  "code" : "1284b162-41ee2abd",
   "homeurl" : "http://x.0797game.com/?id=6",
   "downurl" : "http://x.0797game.com/new330.apk",
   "nowTime" : 1720406750020,
