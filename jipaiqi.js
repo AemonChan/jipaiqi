@@ -10,7 +10,7 @@ obj = {
   "message" : "tokenÈÏÖ¤³É¹¦",
   "appIsAvai" : 1,
   "endTimeStr" : null,
-  "iosEndTimeStr" : "2035-09-29 10:30:33.0",
+  "iosEndTimeStr" : "2099-09-29 10:30:33.0",
   "androidEndTimeStr" : null,
   "token" : null
 }
@@ -18,3 +18,4 @@ obj = {
 
 body = JSON.stringify(obj);
 $done({body});
+
