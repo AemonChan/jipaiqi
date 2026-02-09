@@ -11,8 +11,7 @@ if (body) {
     obj.iosEndTimeStr = "2099-09-29 10:30:33"; // 保持格式一致，去掉末尾多余的 .0 试试
     obj.message = "VIP认证成功";
     
-    // 如果你想固定账号显示
-    obj.account = "18957888896";
+
 
     // 重新转回字符串
     $done({ body: JSON.stringify(obj) });
