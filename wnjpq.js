@@ -3,7 +3,7 @@ var obj = JSON.parse(body);
 
 obj = {
   "nowTime" : "1717219423000",
-  ""dian"" : 9999,
+  "dian" : 9999,
 }
 
 
