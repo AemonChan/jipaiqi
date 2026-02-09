@@ -13,8 +13,8 @@ obj = {
   "code" : "1284b162-41ee2abd",
   "homeurl" : "http://x.0797game.com/?id=6",
   "downurl" : "http://x.0797game.com/new330.apk",
-  "nowTime" : 1770615950806,
-  "dian" : 9999,
+  "nowTime" : "1717219423000",
+  "dian" : "9999",
   "huasedata" : [
     "fw1809e15caa79e62154a000000000000000000",
     "jz2bf71123ad4987256c457ef953b2cc9787801",
