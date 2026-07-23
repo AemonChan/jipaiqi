@@ -8,7 +8,7 @@ if (body) {
     obj.statu = 1; 
     obj.level = "4";
     obj.appIsAvai = 1; // 从 0 改为 1，确保功能可用
-    obj.iosEndTimeStr = "2099-09-30 10:30:33"; // 保持格式一致，去掉末尾多余的 .0 试试
+    obj.iosEndTimeStr = "2099-09-30 12:00:00"; // 保持格式一致，去掉末尾多余的 .0 试试
     obj.message = "VIP认证成功";
     
 
