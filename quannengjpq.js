@@ -7,7 +7,7 @@ try {
     statu: 1,
     level: "4",
     appIsAvai: 1,
-    iosEndTimeStr: "2099-09-30 12:00:00",
+    iosEndTimeStr: "2099-12-31 22:00:00",
     message: "VIP认证成功"
   });
   $done({ body: JSON.stringify(obj) });
